@@ -1,1 +1,15 @@
-p { background-color: red; }
+p {
+    color: red;
+}
+
+.punainen {
+    color: red;
+}
+
+.sininen {
+    color: blue;
+}
+
+.violetti {
+    color: blueviolet;
+}
